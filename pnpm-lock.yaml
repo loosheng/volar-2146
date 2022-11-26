@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@types/vscode': ^1.32.0
+
+devDependencies:
+  '@types/vscode': 1.73.1
+
+packages:
+
+  /@types/vscode/1.73.1:
+    resolution: {integrity: sha512-eArfOrAoZVV+Ao9zQOCaFNaeXj4kTCD+bGS2gyNgIFZH9xVMuLMlRrEkhb22NyxycFWKV1UyTh03vhaVHmqVMg==}
+    dev: true
